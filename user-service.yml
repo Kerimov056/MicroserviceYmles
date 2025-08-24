@@ -4,5 +4,5 @@ spring:
 
   datasource:
     url: jdbc:postgresql://localhost:5432/UserServiceMicroservice
-    username: user
-    password: pass
+    username: postgres
+    password: 1
