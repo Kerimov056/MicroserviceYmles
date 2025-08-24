@@ -1,0 +1,11 @@
+server:
+  port: 0   # hər service random port alsın
+
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
