@@ -7,6 +7,3 @@ spring:
     username: product
     password: pass
 
-  
-  config:
-    import: optional:configserver:http://localhost:8888
