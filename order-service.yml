@@ -4,5 +4,5 @@ spring:
 
   datasource:
     url: jdbc:postgresql://localhost:5432/OrderService
-    username: order
-    password: pass
+    username: postgres
+    password: 1
